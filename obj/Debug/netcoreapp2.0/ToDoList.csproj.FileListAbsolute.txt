@@ -1,0 +1,10 @@
+C:\Users\kos\source\repos\ToDoList\ToDoList\bin\Debug\netcoreapp2.0\ToDoList.deps.json
+C:\Users\kos\source\repos\ToDoList\ToDoList\bin\Debug\netcoreapp2.0\ToDoList.runtimeconfig.json
+C:\Users\kos\source\repos\ToDoList\ToDoList\bin\Debug\netcoreapp2.0\ToDoList.runtimeconfig.dev.json
+C:\Users\kos\source\repos\ToDoList\ToDoList\bin\Debug\netcoreapp2.0\ToDoList.dll
+C:\Users\kos\source\repos\ToDoList\ToDoList\bin\Debug\netcoreapp2.0\ToDoList.pdb
+C:\Users\kos\source\repos\ToDoList\ToDoList\obj\Debug\netcoreapp2.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\kos\source\repos\ToDoList\ToDoList\obj\Debug\netcoreapp2.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\kos\source\repos\ToDoList\ToDoList\obj\Debug\netcoreapp2.0\ToDoList.AssemblyInfo.cs
+C:\Users\kos\source\repos\ToDoList\ToDoList\obj\Debug\netcoreapp2.0\ToDoList.dll
+C:\Users\kos\source\repos\ToDoList\ToDoList\obj\Debug\netcoreapp2.0\ToDoList.pdb
